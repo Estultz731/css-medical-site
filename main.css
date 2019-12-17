@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+h3 {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.navOne .fa-plus {
+  color: #31c39c;
+}
+
+.navOne {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.help {
+  font-family: 'Quicksand', sans-serif;
+  color: #ada2a0;
+  text-decoration: none;
+}
+
+.emergency {
+  font-family: 'Quicksand', sans-serif;
+  color: #ada2a0;
+  text-decoration: none;
+}
+
+.appointment {
+  font-family: 'Quicksand', sans-serif;
+  color: #ada2a0;
+  text-decoration: none;
+}
+
+.fa-phone {
+  color: #31c39c;
+}
+
+.number {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.navTwo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #31c39c;
+  height: 60px;
+  width: 1250px;
+}
+
+.home {
+  margin-left: 10px;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  text-decoration: none;
+}
+
+.about {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  text-decoration: none;
+}
+
+.services {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  text-decoration: none;
+}
+
+.news {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  text-decoration: none;
+}
+
+.contact {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  text-decoration: none;
+}
+
+.navTwo input[type='text'] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 15px;
+  border: none;
+}
+
+.navTwo .search button {
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 10px;
+  background-color: white;
+  font-size: 15px;
+  border: none;
+}
+
+.mainPicture {
+  height: 800px;
+  width: 1250px;
+}
+
+h1 {
+  position: absolute;
+  bottom: 80px;
+  left: 16px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.words {
+  position: absolute;
+  bottom: 70px;
+  left: 16px;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bold;
+}
+
+.read {
+  position: absolute;
+  bottom: 50px;
+  left: 16px;
+  background-color: #31c39c;
+  border: none;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.stethoscope {
+  height: 300px;
+  width: 300px;
+  margin-top: 20px;
+}
+
+.hospital {
+  height: 300px;
+  width: 300px;
+  margin-top: 20px;
+}
+
+.surgery {
+  height: 300px;
+  width: 300px;
+  margin-top: 20px;
+}
